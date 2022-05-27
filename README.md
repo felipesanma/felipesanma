@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pipe</h1>
 <h3 align="center">A passionate "Chasquilla" Engineer from Chile</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=felipesanma&label=Profile%20views&color=0e75b6&style=flat" alt="felipesanma" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felipesanma" alt="felipesanma" /></a> </p>
 
 - 🔭 I’m currently working on [CLM](https://clmdigitalsolutions.com/)
 
@@ -20,10 +17,6 @@
 - 📄 Know about my experiences; [resume](https://drive.google.com/file/d/1lCwMDoiYJJgV7T0ShK7KPMILpiqM1fEb/view?usp=sharing)
 
 - ⚡ Proud fact **Dad of 2 lovely girls**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
