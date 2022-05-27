@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **felipesmsoto@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lCwMDoiYJJgV7T0ShK7KPMILpiqM1fEb/view?usp=sharing](https://drive.google.com/file/d/1lCwMDoiYJJgV7T0ShK7KPMILpiqM1fEb/view?usp=sharing)
+- 📄 Know about my experiences; [resume](https://drive.google.com/file/d/1lCwMDoiYJJgV7T0ShK7KPMILpiqM1fEb/view?usp=sharing)
 
 - ⚡ Proud fact **Dad of 2 lovely girls**
 
