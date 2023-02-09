@@ -8,13 +8,11 @@
 
 - 👯 I’m looking to collaborate on **Edtech projects**
 
-- 📝 I regularly write articles on [coming soon](coming soon)
+- 📝 I regularly write articles on [Chasquilla Engineer Blog](https://blog.chasquillaengineer.com/)
 
 - 💬 Ask me about **aws, python, VoIP, SIP, RTP, Asterisk, Kamailio**
 
-- 📫 How to reach me **felipesmsoto@gmail.com**
-
-- 📄 Visit my [blog](https://blog.chasquillaengineer.com/)
+- 📫 How to reach me: **felipesmsoto@gmail.com**
 
 - ⚡ Proud fact **Dad of 2 lovely girls**
 
