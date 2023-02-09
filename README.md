@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [CLM](https://clmdigitalsolutions.com/)
 
-- 🌱 I’m currently learning **frontend**
+- 🌱 I’m currently learning **Engineering Management**
 
 - 👯 I’m looking to collaborate on **Edtech projects**
 
