@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working on [CLM](https://clmdigitalsolutions.com/)
 
-- 🌱 I’m currently learning **Engineering Management**
+- 🌱 I’m currently learning **Generative AI**
 
 - 👯 I’m looking to collaborate on **Edtech projects**
 
 - 📝 I regularly write articles on [Chasquilla Engineer Blog](https://blog.chasquillaengineer.com/)
 
-- 💬 Ask me about **aws, python, VoIP, SIP, RTP, Asterisk, Kamailio**
+- 💬 Ask me about **AWS, Cloud Solutions, API Design, Networking, Telephony Systems, AI Solutions**
 
 - 📫 How to reach me: **felipesmsoto@gmail.com**
 
