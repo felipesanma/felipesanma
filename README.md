@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 👯 I’m looking to collaborate on **Edtech projects**
+- 👯 Look my [Resume](https://resume.chasquillaengineer.com/)
 
 - 📝 I regularly write articles on [Chasquilla Engineer Blog](https://blog.chasquillaengineer.com/)
 
