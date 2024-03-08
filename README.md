@@ -2,7 +2,7 @@
 <h3 align="center">A passionate "Chasquilla" Engineer from Chile</h3>
 
 
-- 🔭 I’m currently working on [CLM](https://clmdigitalsolutions.com/)
+- 🔭 I’m currently working on [merapar](https://merapar.com/)
 
 - 🌱 I’m currently learning **Generative AI**
 
